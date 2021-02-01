@@ -1,0 +1,75 @@
+//printDate()
+Today's date is 07/09/2020
+Today is Monday
+
+//printQuoteRandom()
+Todays Quote is 
+"The purpose of our lives is to be happy."
+---By Dalai Lama
+The Quote is Life
+
+//printQuote("Inspirational")
+Total type of Inspirational messages are 4
+
+Todays Quote is 
+"In the end, it's not the years in your life that count. It's the life in your years."
+---By Abraham Lincoln
+The Quote is Inspirational
+
+//printQuote("Love")
+Total type of Love messages are 2
+
+Todays Quote is 
+"Spread love everywhere you go. Let no one ever come to you without leaving happier."
+---By Mother Teresa
+The Quote is Love
+
+//printQuote("Life")
+Total type of Life messages are 3
+
+Todays Quote is 
+"The purpose of our lives is to be happy."
+---By Dalai Lama
+The Quote is Life
+
+//printAllByAdding()
+Enter the Quote: We only understand what we what we want to understand
+Enter the Author: Warren
+Enter the Quote type: Life
+
+Quote [quoteId=1, quoteValue="In the end, it's not the years in your life that count. It's the life in your years.", quoteAuthor=Abraham Lincoln, quoteType=Inspirational]
+Quote [quoteId=2, quoteValue="The way to get started is to quit talking and begin doing.", quoteAuthor=Walt Disney, quoteType=Motivational]
+Quote [quoteId=1, quoteValue="If life were predictable it would cease to be life, and be without flavor.", quoteAuthor=Eleanor Roosevelt, quoteType=Life]
+Quote [quoteId=4, quoteValue="If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.", quoteAuthor=James Cameron, quoteType=Motivational]
+Quote [quoteId=1, quoteValue="Spread love everywhere you go. Let no one ever come to you without leaving happier.", quoteAuthor=Mother Teresa, quoteType=Love]
+Quote [quoteId=2, quoteValue="Tell me and I forget. Teach me and I remember. Involve me and I learn.", quoteAuthor=Benjamin Franklin, quoteType=Inspirational]
+Quote [quoteId=7, quoteValue="If you really look closely, most overnight successes took a long time.", quoteAuthor=Steve Jobs, quoteType=Motivational]
+Quote [quoteId=8, quoteValue="Success is not final; failure is not fatal. It is the courage to continue that counts.", quoteAuthor=Winston S. Churchill, quoteType=Success]
+Quote [quoteId=3, quoteValue="Only a life lived for others is a life worthwhile.", quoteAuthor=Albert Einstein, quoteType=Inspirational]
+Quote [quoteId=2, quoteValue="The purpose of our lives is to be happy.", quoteAuthor=Dalai Lama, quoteType=Life]
+Quote [quoteId=11, quoteValue="Yesterday is gone. Tomorrow has not yet come. We have only today. Let us begin.", quoteAuthor=Mother Teresa, quoteType=Motivational]
+Quote [quoteId=2, quoteValue="Love and compassion are necessities, not luxuries. Without them, humanity cannot survive.", quoteAuthor=Dalai Lama, quoteType=Love]
+Quote [quoteId=4, quoteValue="Your time is limited, so don?t waste it living someone else?s life.", quoteAuthor=Steve Jobs, quoteType=Inspirational]
+Quote [quoteId=3, quoteValue="Know the rules well, so you can break them effectively.", quoteAuthor=Dalai Lama, quoteType=Life]
+Quote [quoteId=15, quoteValue="I am a slow walker, but I never walk back.", quoteAuthor=Abraham Lincoln, quoteType=Motivational]
+Quote [quoteId=16, quoteValue=We only understand what we what we want to understand, quoteAuthor=Warren, quoteType=Life]
+
+//countAuthorsQuotes()
+Abraham Lincoln: 2
+Walt Disney: 1
+Eleanor Roosevelt: 1
+James Cameron: 1
+Mother Teresa: 2
+Benjamin Franklin: 1
+Steve Jobs: 2
+Winston S. Churchill: 1
+Albert Einstein: 1
+Dalai Lama: 3
+Warren: 1
+
+//countQuotesTypes()
+Inspirational: 4
+Motivational: 5
+Life: 4
+Love: 2
+Success: 1

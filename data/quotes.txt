@@ -1,0 +1,15 @@
+1:"In the end, it's not the years in your life that count. It's the life in your years.":Abraham Lincoln:Inspirational
+2:"The way to get started is to quit talking and begin doing.":Walt Disney:Motivational
+3:"If life were predictable it would cease to be life, and be without flavor.":Eleanor Roosevelt:Life
+4:"If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.":James Cameron:Motivational
+5:"Spread love everywhere you go. Let no one ever come to you without leaving happier.":Mother Teresa:Love
+6:"Tell me and I forget. Teach me and I remember. Involve me and I learn.":Benjamin Franklin:Inspirational
+7:"If you really look closely, most overnight successes took a long time.":Steve Jobs:Motivational
+8:"Success is not final; failure is not fatal. It is the courage to continue that counts.":Winston S. Churchill:Success
+9:"Only a life lived for others is a life worthwhile.":Albert Einstein:Inspirational
+10:"The purpose of our lives is to be happy.":Dalai Lama:Life
+11:"Yesterday is gone. Tomorrow has not yet come. We have only today. Let us begin.":Mother Teresa:Motivational
+12:"Love and compassion are necessities, not luxuries. Without them, humanity cannot survive.":Dalai Lama:Love
+13:"Your time is limited, so don’t waste it living someone else’s life.":Steve Jobs:Inspirational
+14:"Know the rules well, so you can break them effectively.":Dalai Lama:Life
+15:"I am a slow walker, but I never walk back.":Abraham Lincoln:Motivational
